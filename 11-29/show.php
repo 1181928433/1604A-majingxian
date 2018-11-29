@@ -1,0 +1,14 @@
+<?php
+//数组函数
+array()//创建数组
+array_change_key_case()//把数组中所以的键改为大小写
+array_chunk()
+array_diff()
+array_fill()
+array_fill_keys()
+array_diff_key()
+array_keys()
+array_map()
+array_merge()
+array_pad()
+?>
